@@ -1,0 +1,10 @@
+Triggers DML se refiere al bloqueo o preocedimiento que es disparadopor las setencias DML, 
+incluyendo INSERT, UPDATE y/o DELETE
+
+new = el valor que va tener una columna que va tener despues de un select o un update
+old = es el valor anterior de un select o un delete
+
+En el trigger jamas se pone un commit o un rollback,
+porque estan en medio de una transaccion.. y no se puede commitear porque 
+esta en medio de una transaccion
+

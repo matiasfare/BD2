@@ -1,0 +1,13 @@
+tipo de excepciones
+Tipos de Errores+++
+Predefinidos, ocurren frecuentemente
+no predefinidos, estan declarados en algun diccionario pero no tienen nombre
+predefinidos por el usuario, asignar el nombre, se declara en la seccion declarativa
+
+when other siempre sera la ultima clausula de las excepciones..
+
+UPDATE Y DELETE, no siempre genera error..
+
+Con las excepciones se crea un camino alternativo para a ejecucion de los scripts...
+
+RAISE_APPLICATION_ERROR.. Termina el programa donde sea que se dispare

@@ -1,0 +1,1 @@
+ALTER SESSION set "_ORACLE_SCRIPT"=true;
